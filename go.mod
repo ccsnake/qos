@@ -1,4 +1,4 @@
-module qos
+module github.com/ccsnake/qos
 
 go 1.12
 
